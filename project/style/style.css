@@ -1,0 +1,261 @@
+/*css for navigation*/
+nav {
+    line-height: 3em;
+}
+
+.nav-item {
+    margin-left: 4em;
+
+}
+
+.navbar-brand {
+    font-size: 2em;
+
+
+
+}
+/*css for p h4 h2 */
+p {
+    color: blue;
+    font-family: sans-serif;
+    font-size: 3em;
+
+}
+
+
+
+h4 {
+    text-align: center;
+    font-style: italic;
+    color: green;
+    font-size: 1.8em;
+    margin-bottom: 1em;
+    margin-top: 1em;
+
+}
+
+h2 {
+    text-align: center;
+    font-style: italic;
+    color: green;
+
+
+}
+/*css for responsive image*/
+.img-fluid {
+
+    width: 8em;
+    height: 4.3em;
+    margin-left: 5em;
+    margin-bottom: 1em;
+
+}
+
+h1 {
+    text-align: center;
+    font-style: italic;
+    color: white;
+    background: linear-gradient(to right, red, blue);
+
+}
+
+#nepali {
+    background-color: black;
+    color: white;
+}
+/*css for text of card*/
+.card-text {
+    font-size: 0.8em;
+    color: black;
+}
+
+h5 {
+    font-size: 1.5em;
+}
+
+.card {
+
+    background-color: blanchedalmond;
+}
+
+
+/*css for body*/
+body {
+    background: #ddd;
+    margin: 0;
+}
+
+/*css for card*/
+.card-header {
+    font-size: 2em;
+    color: black;
+}
+
+.card-title {
+    color: black;
+    font-size: 1.5em;
+}
+
+ol li {
+    color: black;
+    font-size: 1.3em;
+    margin: 0.2em;
+}
+
+.card-header {
+    color: white;
+    background: green;
+}
+/*css for container*/
+.container {
+
+    display: grid;
+    grid-template-columns:1em;
+    font-size: 1em;
+    padding: 0em 2em 1em 2em;
+    text-align: justify;
+    background-color: gainsboro;
+    color: black;
+
+}
+
+.container h6 {
+    font-size: 2em;
+    margin-top: 0.5em;
+    color: dimgray;
+}
+
+
+#goodbox p {
+    color: black;
+    font-size: 1.5em;
+    margin-top: 0.5em;
+    margin-left: 0.5em;
+
+}
+
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+/*css for button*/
+button {
+    float: right;
+}
+/*css for slider*/
+.unknown carousel-inner img {
+    display: grid;
+
+    grid-template-columns: 1fr;
+
+}
+
+
+
+
+
+
+.cont {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    font-size: 1.2em;
+    padding: 0.5em 0.5em 0.5em 0.5em;
+    padding-left:1em;
+
+}
+
+.cont {
+    background-color:rgb(0, 16, 54);
+    font-family:monospace;
+    color: white;
+
+}
+/*css for hover*/
+div.cont:hover {
+    border: 0.2em solid #777;
+    background-color:black;
+    color:white;
+
+}
+
+.cont img {
+   
+   
+        border-radius:0.3em;
+
+}
+
+.con {
+padding-top:1em;
+    display: grid;
+    height: 40em;
+    grid-template-columns: 1fr;
+     
+}
+/*css for table*/
+.box{
+    display:grid;
+    grid-template-columns:1fr;
+}
+
+/*css for media*/
+.media {
+    display: grid;
+    
+    grid-template-columns:1fr;
+    font-size: 1.2em;
+    grid-row-gap: 0.8em;
+   padding-top:0em;
+    padding-left:2em;
+    padding-right:2em;
+}
+
+.grid {
+    display: grid;
+    grid-row-gap: 0.4em;
+    grid-column-gap: 0.5em;
+    grid-template-columns:1fr 1fr 1fr 1fr;
+    padding: 0.4em;
+    border: 0.2em solid #777;
+    background-color: dimgrey;
+
+}
+/*css for hover*/
+div.grid:hover {
+    border: 0.1em solid green;
+    background-color: black;
+    color: white;
+
+
+}
+/*css for image*/
+.grid img {
+    border-radius: 0.5em 0.5em 0.5em 0.5em;
+}
+
+.naii {
+    text-align: center;
+    font-style: italic;
+    color: white;
+
+    background: linear-gradient(to right, red, blue);
+}
+/*css for container*/
+.container{
+    display:grid;
+    grid-template-columns:100%
+}
+.cont img{
+    height:60px;
+    width:60px;
+}
+/*css for card*/
+.card-text{
+    font-size: 1.5em;
+}
+/*css for box*/
+.box p{
+    font-size:1.5em;
+    margin-left:1em;
+}
